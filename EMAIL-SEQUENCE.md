@@ -1,7 +1,7 @@
 # Sequenza email · Dalle slide alla scena × Laura Locatelli
 
 **Evento:** martedì 17 novembre 2026, 12:00–13:00 · Microsoft Teams · in italiano
-**Landing:** https://talk.mlcpresentations.com
+**Landing:** https://webinar-talk-laura-locatelli.vercel.app
 **Tag AC:** `[registered] 2026_11_17_TalkLaura` (già creato, id 992) · dopo il live: `[partecipated] 2026_11_17_TalkLaura`
 **Giorno di invio dei rilanci:** giovedì (non più martedì/mercoledì)
 
