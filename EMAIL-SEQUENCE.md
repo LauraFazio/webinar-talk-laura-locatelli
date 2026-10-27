@@ -1,4 +1,4 @@
-# Sequenza email · Bucare lo schermo × Laura Locatelli
+# Sequenza email · Dalle slide alla scena × Laura Locatelli
 
 **Evento:** martedì 17 novembre 2026, 12:00–13:00 · Microsoft Teams · in italiano
 **Landing:** https://talk.mlcpresentations.com

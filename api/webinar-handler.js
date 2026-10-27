@@ -1,6 +1,6 @@
 /**
  * MLC Webinar Handler — Vercel Serverless Function (Node.js runtime)
- * Event: "Bucare lo schermo" — Laura Locatelli × Maurizio La Cava
+ * Event: "Dalle slide alla scena" — Laura Locatelli × Maurizio La Cava
  * Date:  17 November 2026, 12:00–13:00 CET
  *
  * Flow: upsert contact → add to list WEBINARS → apply tag with DELETE + RE-ADD
@@ -28,7 +28,7 @@ const ALLOWED_ORIGIN = process.env.ALLOWED_ORIGIN || '*';
 const SETUP_TOKEN = process.env.SETUP_TOKEN || '';
 
 const WEBINAR_DATE = '2026-11-17';
-const WEBINAR_NAME = 'Bucare lo schermo - Laura Locatelli';
+const WEBINAR_NAME = 'Dalle slide alla scena - Laura Locatelli';
 
 /* ---------------------------------------------------------------- helpers */
 

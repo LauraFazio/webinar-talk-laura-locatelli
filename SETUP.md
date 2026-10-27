@@ -1,4 +1,4 @@
-# Setup · Landing "Bucare lo schermo · Laura Locatelli"
+# Setup · Landing "Dalle slide alla scena · Laura Locatelli"
 
 **Evento:** martedì 17 novembre 2026, 12:00–13:00 (CET) · Microsoft Teams · italiano
 **Dominio:** `talk.mlcpresentations.com` (sottodominio MLC, perché i filtri aziendali tipo Zscaler bloccano `*.vercel.app`)
