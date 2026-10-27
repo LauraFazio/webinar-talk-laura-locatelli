@@ -1,0 +1,14 @@
+node_modules/
+.vercel
+.env
+.env.local
+*.log
+webinar-handler.php
+.DS_Store
+Thumbs.db
+source-assets/
+*.xlsx
+~$*
+publish-log.txt
+0 - PUBBLICA AUTO.bat
+push-err.txt
