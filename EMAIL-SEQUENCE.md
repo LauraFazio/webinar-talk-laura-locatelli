@@ -22,7 +22,7 @@ Se l'email 2 ripete l'email 1, il click-to-open crolla.
 | 9 | Post · registrazione | mer 18 nov, 10:00 | Laura di MLC | solo iscritti |
 
 Le email 5–9 devono essere filtrate sul tag, altrimenti il link Teams arriva a chi non è iscritto.
-La 9 resta di mercoledì: nella landing e nella conferma promettiamo la registrazione "il giorno dopo".
+La 9 parte il giorno dopo il live: la registrazione è promessa in landing e in conferma.
 
 ---
 
@@ -51,9 +51,9 @@ Dove metto le mani, quante pause faccio, come apro.
 
 Funzionano. Fino al momento in cui si sentono.
 
-Laura Locatelli fa l'attrice da più di vent'anni (se segui il Milanese Imbruttito,
-la conosci già: è sua moglie). E da dieci anni fa una cosa che sembra un paradosso:
-allena manager, imprenditori e professionisti a **non recitare** quando parlano
+Laura Locatelli fa l'attrice da più di vent'anni, e dal 2016 lavora al fianco del
+Milanese Imbruttito. Da dieci anni fa anche una cosa che sembra un paradosso.
+Allena manager, imprenditori e professionisti a **non recitare** quando parlano
 davanti a una sala o a una webcam.
 
 **Martedì 17 novembre alle 12:00** è ospite del podcast MLC. Maurizio la intervista
@@ -65,7 +65,7 @@ Live, un'ora, gratis, su Teams.
 A presto,
 Laura
 
-*P.S. Se il 17 non riesci, iscriviti lo stesso: la registrazione ti arriva il giorno dopo.*
+*P.S. Se il 17 non riesci, iscriviti lo stesso. Riceverai la registrazione.*
 
 ---
 
@@ -102,7 +102,7 @@ Un'ora live, gratis, con domande dal pubblico alla fine.
 
 Maurizio
 
-*P.S. Non riesci a esserci live? Iscriviti comunque e ti mandiamo la registrazione.*
+*P.S. Non riesci a esserci live? Iscriviti comunque, riceverai la registrazione.*
 
 ---
 
@@ -131,7 +131,7 @@ podcast.
 
 Laura
 
-*P.S. Non ce la fai martedì? Iscriviti lo stesso, la registrazione arriva il giorno dopo.*
+*P.S. Non ce la fai martedì? Iscriviti lo stesso, riceverai la registrazione.*
 
 > Nota: se in risposta all'email di conferma arrivano domande vere, usare quelle al posto
 > degli esempi (e cambiare la frase introduttiva in "Ne abbiamo già ricevute alcune").
@@ -166,7 +166,7 @@ Nel caso invece ti interessasse...
 
 Laura
 
-*P.S. Se all'ultimo non riesci a esserci, niente paura: la registrazione ti arriva il giorno dopo.*
+*P.S. Se all'ultimo non riesci a esserci, niente paura. Riceverai la registrazione.*
 
 ---
 
@@ -193,7 +193,7 @@ Gli ultimi minuti sono per le domande.
 A domani,
 Laura
 
-*P.S. Se succede qualcosa, la registrazione ti arriva il giorno dopo.*
+*P.S. Se succede qualcosa, riceverai la registrazione.*
 
 ---
 
