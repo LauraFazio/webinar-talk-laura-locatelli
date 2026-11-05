@@ -1,7 +1,7 @@
 /**
  * MLC Webinar Handler — Vercel Serverless Function (Node.js runtime)
  * Event: "Dalle slide alla scena" — Laura Locatelli × Maurizio La Cava
- * Date:  17 November 2026, 12:00–13:00 CET
+ * Date:  25 November 2026 (moved from 17 Nov; AC tag keeps its original name), 12:00–13:00 CET
  *
  * Flow: upsert contact → add to list WEBINARS → apply tag with DELETE + RE-ADD
  * (the delete + re-add is mandatory: ActiveCampaign's "Tag is added" trigger is
@@ -27,7 +27,7 @@ const TAG_DESCRIPTION = 'Iscritti al Talk MLC con Laura Locatelli - ' + TAG_NAME
 const ALLOWED_ORIGIN = process.env.ALLOWED_ORIGIN || '*';
 const SETUP_TOKEN = process.env.SETUP_TOKEN || '';
 
-const WEBINAR_DATE = '2026-11-17';
+const WEBINAR_DATE = '2026-11-25';
 const WEBINAR_NAME = 'Dalle slide alla scena - Laura Locatelli';
 
 /* ---------------------------------------------------------------- helpers */
